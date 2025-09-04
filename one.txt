@@ -1,3 +1,4 @@
 Big data analysis
 Hadoop Architecture
 Kafka-Zookeeper
+AWS - Kinesis Data
